@@ -8,7 +8,7 @@
 2) Eliminar funciones redundantes
 3) Convertir características en forma adecuada para modelar
 
-# Liberias necesarias
+# Librerias necesarias
 Numpy
 ```
 pip install numpy
