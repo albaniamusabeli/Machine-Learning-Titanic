@@ -29,7 +29,12 @@ Seaborn
 pip install seaborn
 ```
 
-Jinja2 (opcional ya que enviaba errores en el  style.background_gradient())
+Jinja2 (opcional, ya que enviaba errores en el  style.background_gradient())
 ```
 pip install Jinja2
+```
+
+Openpylx (opcional, para exportar el archivo CSV a formato Excel XLSX)
+```
+pip install openpyxl
 ```
